@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_on_image_to_share">Click on image to share</string>
+    <string name="todo">TODO</string>
+</resources>
